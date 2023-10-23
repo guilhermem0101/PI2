@@ -5,8 +5,10 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 
 * Aplicação em desenvolvimento: Sistemas de compras
 
-* Segmento de Negócio: Marketplace 
+* Segmento de Negócio: Varejo de alimentos
 
-* Etapa atual: Levantamento de requisitos - Entrevistas 
+* Empresa: Jotate Comercial de Alimentos Ltda
+
+* Etapa atual: Levantamento de requisitos - Entrevista
 
 
