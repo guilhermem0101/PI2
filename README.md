@@ -1,7 +1,7 @@
 Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 -----------------------------------------------------------------------
                     Cliente / Empresa:
-            Razão Social: Jotate Comercial de Alimentos Ltda
+            Razão social: Jotate Comercial de Alimentos Ltda
             Nome fantasia: Mercado e Açougue Gaúcho
             Contato: (11) 5068-1616
             Segmento de Negócio: Varejo de Alimentos
@@ -12,3 +12,15 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 * Aplicação em desenvolvimento: Sistemas de compras
 
 * Etapa atual: Modelagem BD - MongoDB
+
+-----------------------------------------------------------------------
+
+* Requisito identificados - 24/10/23:
+
+- Efetuar login
+- Cadastrar produto
+- Cadastrar fornecedor 
+- Efetuar pedido de compra
+- Receber produto
+- Solicitar devolução
+- Extrair relatório operacional
