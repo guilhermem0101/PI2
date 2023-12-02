@@ -173,63 +173,44 @@ db.fornecedor.insertOne(//MONDELEZ
 //RED BULL
 
 {
-  CNPJ: '02.946.761/0001-66',
-  Nome: 'Red Bull do Brasil Ltda',
-  razao_social: 'Red Bull do Brasil Ltda',
-  endereco: [
-    {
-      logradouro: 'Itaim Bibi',
-      num: '',
-      bairro: '',
-      uf: 'SP',
-      cidade: 'São Paulo',
-      matriz: true
-    },
-    {
-      logradouro: '',
-      num: '',
-      bairro: '',
-      uf: 'RS',
-      cidade: 'Porto Alegre',
-      matriz: false
-    },
-    {
-      logradouro: '',
-      num: '',
-      bairro: '',
-      uf: 'RJ',
-      cidade: 'Rio de Janeiro',
-      matriz: false
-    },
-    {
-      logradouro: '',
-      num: '',
-      bairro: '',
-      uf: 'MG',
-      cidade: 'Belo Horizonte',
-      matriz: false
-    },
-    {
-      logradouro: '',
-      num: '',
-      bairro: '',
-      uf: 'PE',
-      cidade: 'Recife',
-      matriz: false
-    },
-  ],
-  contatos: [
-    {
-      dd: '11',
-      tel: '3016-2855',
-      Email: ''
-    },
-  ],
-  servico: 'A Red Bull Brasil é uma empresa de bebidas energéticas que iniciou suas operações no Brasil em 1998. A empresa é conhecida por seu marketing inovador e pelo patrocínio de esportes radicais, futebol e automobilismo. Além disso, a Red Bull Brasil também tem uma presença significativa no futebol, com o Red Bull Bragantino competindo na elite do futebol brasileiro.',
-  categorias: ['Bebidas Energéticas'],
-  funcionarios: 400,
-  Status: 'Ativa'
-},
+    CNPJ: '33.033.028/0001-84',
+    Nome: 'Mondelez Brasil',
+    razao_social: 'Mondelez Brasil Ltda',
+    nome_fantasia: 'Mondelez Brasil',
+    endereco: [
+        {
+            logradouro: 'Avenida Juscelino Kubitschek de Oliveira, 13300',
+            num: '',
+            bairro: 'Conjunto Administrativo, Cidade Industrial',
+            uf: 'PR',
+            cep: '81460-000',
+            cidade: 'Curitiba'
+        },
+        {
+            logradouro: '',
+            num: '',
+            bairro: '',
+            uf: 'SP',
+            cep: '',
+            cidade: 'São Paulo'
+        },
+    ],
+    contatos: [
+        {
+            dd: '41',
+            tel: '3212-8115',
+            Email: 'corporate.brasil@mdlz.com'
+        },
+        {
+            dd: '11',
+            tel: '2179-1600',
+            Email: ''
+        },
+    ],
+    servico: 'A Mondelez Brasil é líder ou co-líder nas categorias de Chocolates, Gomas, Balas, Biscoitos, Bebidas em Pó, Sobremesas em Pó e Queijos. Eles têm várias marcas, incluindo Belvita, Chips Ahoy!, Nabisco, Oreo, Ritz, TUC, Triscuit, LU, Club Social, Barny, Peek Freans, marcas de chocolate Milka, Côte d’Or, Toblerone, Cadbury, Green & Black’s, Freia, Marabou, Fry’s, Lacta, marcas de pastilhas elásticas e para tosse Trident, Dentyne, Chiclets, Halls, Bubbaloo, Clorets, Plets, Stride, Tate’s Bake Shop, fermento em pó e sobremesas Royal e a marca de bebidas em pó Tang, Fresh e Clight.',
+    categorias: ['Chocolates', 'Gomas', 'Balas', 'Biscoitos', 'Bebidas em Pó', 'Sobremesas em Pó', 'Queijos'],
+    Status: 'Ativa',
+}
 //Bombril
 
 db.fornecedor.insertOne({
@@ -3738,7 +3719,7 @@ db.itens_pedidos.insertOne({
 });
 
 
-recebimento 
+ 
 
 db.recebimento.insertOne({
     recebimentos: [
