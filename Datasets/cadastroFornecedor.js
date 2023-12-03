@@ -1,21 +1,21 @@
 ///HEINEKEN
 db.fornecedor.insertOne({
-  CNPJ: '12.015.515/0001-44',
+  CNPJ: 12.015.5150001-44,
   Nome: 'Heineken Brasil',
   razao_social: 'Heineken Brazil B V',
   endereco: [
     {
-      logradouro: 'Rua Olimpíadas 205',
-      num: '',
+      logradouro: 'Rua Olimpíadas' ,
+      num: 205,
       bairro: '',
       uf: 'SP',
-      cep: '03178-200'
+      cep: 03178-200
     },
   ],
   contatos: [
     {
-      dd: '11',
-      tel: '2802-0000',
+      dd: 11,
+      tel: 2802-0000,
       Email: 'sac@heineken.com.br'
     },
   ],
@@ -26,41 +26,41 @@ db.fornecedor.insertOne({
 
 ///ASSAI
 db.fornecedor.insertOne({
-  CNPJ: '06.057.223/0001-71',
+  CNPJ: 06.057.2230001-71,
   Nome: 'Assaí Atacadista',
   razao_social: 'SENDAS DISTRIBUIDORA S/A',
   endereco: [
     {
-      logradouro: 'Rua Maria Luiza Santiago, 110',
-      num: '',
+      logradouro: 'Rua Maria Luiza Santiago',
+      num:110,
       bairro: '',
       uf: 'MG',
-      cep: '30.360-740',
+      cep: 30.360-740,
       cidade: 'Belo Horizonte'
     },
     {
-      logradouro: 'Rodovia BR-116, 18580',
-      num: '',
+      logradouro: 'Rodovia BR-116' ,
+      num: 18580,
       bairro: 'Pinheirinho',
       uf: 'PR',
-      cep: '81690-400',
+      cep: 81690-400,
       cidade: 'Curitiba'
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '773-2322',
+      dd: 0800,
+      tel: 773-2322,
       Email: ''
     },
     {
-      dd: '3003',
-      tel: '3030',
+      dd: 3003,
+      tel: 3030,
       Email: ''
     },
     {
-      dd: '0800',
-      tel: '720-3030',
+      dd: 0800,
+      tel: 720-3030,
       Email: ''
     },
   ],
@@ -73,28 +73,28 @@ db.fornecedor.insertOne({
 //UNILEVER
 
 {
-  CNPJ: '61.068.276/0001-04',
+  CNPJ: 61.068.2760001-04,
   Nome: 'Unilever Brasil Ltda',
   razao_social: 'Unilever Brasil Ltda',
   endereco: [
     {
-      logradouro: 'Avenida das Nações Unidas 14261',
-      num: '',
+      logradouro: 'Avenida das Nações Unidas ',
+      num: 14261,
       bairro: '',
       uf: 'SP',
-      cep: '04794-000',
+      cep: 04794-000,
       cidade: 'São Paulo'
     },
   ],
   contatos: [
     {
-      dd: '11',
-      tel: '3741-4326',
+      dd: 11,
+      tel: 3741-4326,
       Email: ''
     },
     {
-      dd: '0800',
-      tel: '707 9977',
+      dd: 0800,
+      tel: 7079977,
       Email: 'sac@unilever.com.br'
     },
   ],
@@ -104,23 +104,23 @@ db.fornecedor.insertOne({
 },
 //PECCIN
 {
-  CNPJ: '89.425.888/0001-18',
+  CNPJ: 89.425.8880001-18,
   Nome: 'Peccin S.A.',
   razao_social: 'Peccin S.A.',
   endereco: [
     {
-      logradouro: 'Rua Doutor Sidney Guerra, 1700',
-      num: '',
+      logradouro: 'Rua Doutor Sidney Guerra',
+      num: 1700,
       bairro: 'Copas Verdes',
       uf: 'RS',
-      cep: '99704-660',
+      cep: 99704-660,
       cidade: 'Erechim'
     },
   ],
   contatos: [
     {
-      dd: '54',
-      tel: '3520-9797',
+      dd: 54,
+      tel: 3520-9797,
       Email: ''
     },
   ],
@@ -131,17 +131,17 @@ db.fornecedor.insertOne({
 
 db.fornecedor.insertOne(//MONDELEZ
 {
-  CNPJ: '33.033.028/0001-84',
+  CNPJ: 33.033.0280001-84,
   Nome: 'Mondelez Brasil',
   razao_social: 'Mondelez Brasil Ltda',
   nome_fantasia: 'Mondelez Brasil',
   endereco: [
     {
-      logradouro: 'Avenida Juscelino Kubitschek de Oliveira, 13300',
-      num: '',
+      logradouro: 'Avenida Juscelino Kubitschek de Oliveira',
+      num: 13300,
       bairro: 'Conjunto Administrativo, Cidade Industrial',
       uf: 'PR',
-      cep: '81460-000',
+      cep: 81460-000,
       cidade: 'Curitiba'
     },
     {
@@ -155,13 +155,13 @@ db.fornecedor.insertOne(//MONDELEZ
   ],
   contatos: [
     {
-      dd: '41',
-      tel: '3212-8115',
+      dd: 41,
+      tel: 3212-8115,
       Email: 'corporate.brasil@mdlz.com'
     },
     {
-      dd: '11',
-      tel: '2179-1600',
+      dd: 11,
+      tel: 2179-1600,
       Email: ''
     },
   ],
@@ -173,17 +173,17 @@ db.fornecedor.insertOne(//MONDELEZ
 //RED BULL
 
 {
-    CNPJ: '33.033.028/0001-84',
+    CNPJ: 33.033.0280001-84,
     Nome: 'Mondelez Brasil',
     razao_social: 'Mondelez Brasil Ltda',
     nome_fantasia: 'Mondelez Brasil',
     endereco: [
         {
-            logradouro: 'Avenida Juscelino Kubitschek de Oliveira, 13300',
-            num: '',
+            logradouro: 'Avenida Juscelino Kubitschek de Oliveira',
+            num:  13300,
             bairro: 'Conjunto Administrativo, Cidade Industrial',
             uf: 'PR',
-            cep: '81460-000',
+            cep: 81460-000,
             cidade: 'Curitiba'
         },
         {
@@ -197,13 +197,13 @@ db.fornecedor.insertOne(//MONDELEZ
     ],
     contatos: [
         {
-            dd: '41',
-            tel: '3212-8115',
+            dd: 41,
+            tel: 3212-8115,
             Email: 'corporate.brasil@mdlz.com'
         },
         {
-            dd: '11',
-            tel: '2179-1600',
+            dd: 11,
+            tel: 2179-1600,
             Email: ''
         },
     ],
@@ -214,7 +214,7 @@ db.fornecedor.insertOne(//MONDELEZ
 //Bombril
 
 db.fornecedor.insertOne({
-  CNPJ: '50.564.053/0001-03',
+  CNPJ: 50.564.0530001-03,
   Nome: 'Bombril',
   razao_social: 'Bombril S.A.',
   endereco: [
@@ -223,13 +223,13 @@ db.fornecedor.insertOne({
       num: 'Km 14',
       bairro: 'Rudge Ramos',
       uf: 'SP',
-      cep: '09696-000'
+      cep: 09696-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7076161',
+      dd: 0800,
+      tel: 7076161,
       Email: 'sac@bombril.com.br'
     },
   ],
@@ -241,19 +241,19 @@ db.fornecedor.insertOne({
 //Ypê
 
 {
-    CNPJ: "02.940.028/0001-34",
+    CNPJ: 02.940.0280001-34,
     Nome: "Ypê",
     razao_social: "Química Amparo",
     endereco: [{
         logradouro: "Av. Valdir Beira",
-        num: "1000",
+        num: 1000,
         bairro: "Jardim da Figueira",
         uf: "SP",
-        cep: "13904-906"
+        cep: 13904-906
     }],
     contatos: [{
-        dd: "19",
-        tel: "3808-80",
+        dd: 19,
+        tel: 3808-80,
         Email: "imprensaype@gbr.com.br"
     }],
     servico: "Produtos de limpeza para a casa, cuidado com as roupas, com as louças e cuidados pessoais",  
@@ -263,19 +263,19 @@ db.fornecedor.insertOne({
 
 //Procter & Gamble (P&G)
 {
-    CNPJ: "59.476.770/0041-45",
+    CNPJ: 59.4767700041-45,
     Nome: "Procter & Gamble do Brasil",
     razao_social: "Procter & Gamble do Brasil Ltda",
     endereco: [{
         logradouro: "Av. Dr. Chucri Zaidan",
-        num: "296",
+        num: 296,
         bairro: "Vila Cordeiro",
         uf: "SP",
-        cep: "04583-110"
+        cep: 04583-110
     }],
     contatos: [{
-        dd: "0800",
-        tel: "701-5515",
+        dd: 0800,
+        tel: 701-5515,
         Email: "sac@pg.com"
     }],
     servico: "A P&G Brasil é uma empresa de bens de consumo que produz produtos de alta qualidade nas categorias de saúde pessoal, saúde do consumidor e produtos de cuidados pessoais",
@@ -286,19 +286,19 @@ db.fornecedor.insertOne({
 //Nestlé
 
 {
-    CNPJ: "60.409.075/0001-52",
+    CNPJ: 60.409.0750001-52,
     Nome: "Nestlé Brasil",
     razao_social: "Nestle Brasil LTDA",
     endereco: [{
         logradouro: "Av. das Nações Unidas",
-        num: "17007",
+        num: 17007,
         bairro: "Várzea de Baixo",
         uf: "SP",
-        cep: "04578-000"
+        cep: 04578-000
     }],
     contatos: [{
-        dd: "11",
-        tel: "5508-4400",
+        dd: 11,
+        tel: 5508-4400,
         Email: "falecom@nestle.com.br"
     }],
     servico: "A Nestlé Brasil é uma empresa de bens de consumo que produz produtos de alta qualidade nas categorias de alimentos para bebês, águas engarrafadas, cereais, chocolates e confeitos, café, culinária e produtos culinários, alimentos resfriados e congelados, produtos lácteos, bebidas, serviços de alimentação profissional, nutrição voltada para cuidados com a saúde, sorvetes, petcare e gestão de peso",
@@ -308,19 +308,19 @@ db.fornecedor.insertOne({
 
 //Pepsico
 {
-    CNPJ: "31.565.104/0001-77",
+    CNPJ: 31.565.1040001-77,
     Nome: "Pepsico do Brasil",
     razao_social: "Pepsico do Brasil LTDA",
     endereco: [{
         logradouro: "Av. das Nações Unidas",
-        num: "14171",
+        num: 14171,
         bairro: "Vila Gertrudes",
         uf: "SP",
-        cep: "04794-000"
+        cep: 04794-000
     }],
     contatos: [{
-        dd: "0800",
-        tel: "703-4444",
+        dd: 0800,
+        tel: 703-4444,
         Email: "sac@pepsico.com"
     }],
     servico: "A Pepsico Brasil é uma empresa de bens de consumo que produz produtos de alta qualidade nas categorias de alimentos e bebidas",
@@ -331,19 +331,19 @@ db.fornecedor.insertOne({
 //Wickbold
 
 {
-    CNPJ: "62.691.043/0001-18",
+    CNPJ: 62.691.0430001-18,
     Nome: "Wickbold",
     razao_social: "Wickbold & Nosso Pao Industrias Alimenticias LTDA",
     endereco: [{
         logradouro: "Av. Presidente Juscelino",
-        num: "734",
+        num: 734,
         bairro: "Piraporinha",
         uf: "SP",
-        cep: "09950-900"
+        cep: 09950-900
     }],
     contatos: [{
-        dd: "11",
-        tel: "3124-35",
+        dd: 11,
+        tel: 3124-35,
         Email: "sac@wickbold.com.br"
     }],
     servico: "A Wickbold é uma empresa brasileira de alimentos que atua na fabricação de pães, panetones e entre outros produtos à base de massas",
@@ -353,19 +353,19 @@ db.fornecedor.insertOne({
 
 //Pullman
 {
-    CNPJ: "30.857.684/0001-03",
+    CNPJ: 30.857.6840001-03,
     Nome: "Pullman",
     razao_social: "Pallmann do Brasil Industria e Comercio em Recuperacao Judicial",
     endereco: [{
         logradouro: "Av. Presidente Juscelino",
-        num: "734",
+        num: 734,
         bairro: "Piraporinha",
         uf: "SP",
-        cep: "09950-900"
+        cep: 09950-900
     }],
     contatos: [{
-        dd: "11",
-        tel: "3124-35",
+        dd: 11,
+        tel: 3124-35,
         Email: "sac@pullman.com.br"
     }],
     servico: "A Pullman é conhecida por seus hotéis exclusivos em sintonia com o mundo moderno, conectando desempenho e prazer",
@@ -375,19 +375,19 @@ db.fornecedor.insertOne({
 
 //Bauducco
 {
-    CNPJ: "60.409.075/0001-52",
+    CNPJ: 60.409.0750001-52,
     Nome: "Bauducco",
     razao_social: "Bauducco & Cia Ltda",
     endereco: [{
         logradouro: "Av. das Nações Unidas",
-        num: "17007",
+        num: 17007,
         bairro: "Várzea de Baixo",
         uf: "SP",
-        cep: "04578-000"
+        cep: 04578-000
     }],
     contatos: [{
-        dd: "11",
-        tel: "5508-4400",
+        dd: 11,
+        tel: 5508-4400,
         Email: "sac@bauducco.com.br"
     }],
     servico: "A Bauducco é conhecida por seus produtos alimentícios, incluindo panetones, biscoitos, bolos e pães de mel",
@@ -399,22 +399,22 @@ db.fornecedor.insertOne({
 //Fornecedores de produtos de açougue:
 //Friboi
 db.fornecedor.insertOne({
-  CNPJ: '02.914.265/0029-77',
+  CNPJ: 02.914.2650029-77,
   Nome: 'Friboi',
   razao_social: 'JBS S.A.',
   endereco: [
     {
       logradouro: 'Rua Antônio Prado',
-      num: '300',
+      num: 300,
       bairro: 'Centro',
       uf: 'SP',
-      cep: '01010-000'
+      cep: 01010-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7001111',
+      dd: 0800,
+      tel: 7001111,
       Email: 'faleconosco@jbs.com.br'
     },
   ],
@@ -425,22 +425,22 @@ db.fornecedor.insertOne({
 
 //Seara
 db.fornecedor.insertOne({
-  CNPJ: '02.914.265/0029-77',
+  CNPJ: 02.914.2650029-77,
   Nome: 'Friboi',
   razao_social: 'JBS S.A.',
   endereco: [
     {
       logradouro: 'Rua Antônio Prado',
-      num: '300',
+      num: 300,
       bairro: 'Centro',
       uf: 'SP',
-      cep: '01010-000'
+      cep: 01010-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7001111',
+      dd: 0800,
+      tel: 7001111,
       Email: 'faleconosco@jbs.com.br'
     },
   ],
@@ -451,22 +451,22 @@ db.fornecedor.insertOne({
 
 //Perdigão
 db.fornecedor.insertOne({
-  CNPJ: '01.838.723/0026-09',
+  CNPJ: 01.838.7230026-09,
   Nome: 'Perdigão',
   razao_social: 'BRF S.A.',
   endereco: [
     {
       logradouro: 'Rua Hungria',
-      num: '1400',
+      num: 1400,
       bairro: 'Jardim Europa',
       uf: 'SP',
-      cep: '01455-000'
+      cep: 01455-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7021818',
+      dd: 0800,
+      tel: 7021818,
       Email: 'sac@brf-br.com'
     },
   ],
@@ -480,22 +480,22 @@ db.fornecedor.insertOne({
 //Lactalis
 
 db.fornecedor.insertOne({
-  CNPJ: '44.356.691/0001-30',
+  CNPJ: 44.356.6910001-30,
   Nome: 'Lactalis',
   razao_social: 'Lactalis do Brasil Comércio e Indústria de Produtos Alimentícios Ltda.',
   endereco: [
     {
       logradouro: 'Avenida Dom Pedro II',
-      num: '1051',
+      num: 1051,
       bairro: 'Campestre',
       uf: 'SP',
-      cep: '09080-111'
+      cep: 09080-111
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7054212',
+      dd: 0800,
+      tel: 7054212,
       Email: 'sac@lactalis.com.br'
     },
   ],
@@ -507,43 +507,43 @@ db.fornecedor.insertOne({
 //Vigor
 
 db.fornecedor.insertOne({
-  CNPJ: '14.564.695/0001-87',
+  CNPJ: 14.564.6950001-87,
   Nome: 'Vigor',
   razao_social: 'Vigor Alimentos S.A.',
   endereco: [
     {
       logradouro: 'Rua Fulvia Spinelli',
-      num: '141',
+      num: 141,
       bairro: 'Vila Olimpia',
       uf: 'SP',
-      cep: '04550-000'
+      cep: 04550-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7284100',
+      dd: 0800,
+      tel: 7284100,
       Email: "N/a" }]}),
 
 //Fornecedores de produtos de hortifruti:
 //CEAGESP 
 db.fornecedor.insertOne({
-  CNPJ: '62.338.367/0001-89',
+  CNPJ: 62.338.3670001-89,
   Nome: 'CEAGESP',
   razao_social: 'Companhia de Entrepostos e Armazéns Gerais de São Paulo',
   endereco: [
     {
       logradouro: 'Avenida Doutor Gastão Vidigal',
-      num: '1946',
+      num: 1946,
       bairro: 'Vila Leopoldina',
       uf: 'SP',
-      cep: '05022-000'
+      cep: 05022-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '1147275000',
+      dd: 0800,
+      tel: 1147275000,
       Email: 'faleconosco@ceagesp.gov.br'
     },
   ],
@@ -557,22 +557,22 @@ db.fornecedor.insertOne({
 //Fornecedores de embalagens:
 //Plasvale
 db.fornecedor.insertOne({
-  CNPJ: '80.128.479/0001-85',
+  CNPJ: 80.128.4790001-85,
   Nome: 'Plasvale',
   razao_social: 'Plasvale Indústria e Comércio de Plásticos Vale Ltda.',
   endereco: [
     {
       logradouro: 'Rua João Gurgel',
-      num: '137',
+      num: 137,
       bairro: 'Santa Rita',
       uf: 'SC',
-      cep: '89290-000'
+      cep: 89290-000
     },
   ],
   contatos: [
     {
-      dd: '047',
-      tel: '3644000',
+      dd: 047,
+      tel: 3644000,
       Email: 'contato@plasvale.com.br'
     },
   ],
@@ -584,22 +584,22 @@ db.fornecedor.insertOne({
 //Copobras
 
 db.fornecedor.insertOne({
-  CNPJ: '82.739.792/0001-41',
+  CNPJ: 82.739.7920001-41,
   Nome: 'Copobras',
   razao_social: 'Copobras S.A. Indústria e Comércio',
   endereco: [
     {
       logradouro: 'Rua Venâncio Aires',
-      num: '398',
+      num: 398,
       bairro: 'Centro',
       uf: 'SC',
-      cep: '89140-000'
+      cep: 89140-000
     },
   ],
   contatos: [
     {
-      dd: '047',
-      tel: '3645000',
+      dd: 047,
+      tel: 3645000,
       Email: 'copobras@copobras.com.br'
     },
   ],
@@ -610,22 +610,22 @@ db.fornecedor.insertOne({
 
 //Cromus
 db.fornecedor.insertOne({
-  CNPJ: '60.212.796/0001-47',
+  CNPJ: 60.212.7960001-47,
   Nome: 'Cromus',
   razao_social: 'Cromus Embalagens Ltda.',
   endereco: [
     {
       logradouro: 'Rua Manuel Joaquim da Silva',
-      num: '75',
+      num: 75,
       bairro: 'Jardim Riacho das Pedras',
       uf: 'MG',
-      cep: '32241-270'
+      cep: 32241-270
     },
   ],
   contatos: [
     {
-      dd: '031',
-      tel: '21050000',
+      dd: 031,
+      tel: 21050000,
       Email: 'sac@cromus.com.br'
     },
   ],
@@ -637,22 +637,22 @@ db.fornecedor.insertOne({
 //Fornecedores de produtos de limpeza e manutenção:
 //3M
 db.fornecedor.insertOne({
-  CNPJ: '60.564.690/0001-64',
+  CNPJ: 60.564.6900001-64,
   Nome: '3M',
   razao_social: '3M do Brasil Ltda.',
   endereco: [
     {
       logradouro: 'Avenida Maria Coelho Aguiar',
-      num: '215',
+      num: 215,
       bairro: 'Jardim São Luís',
       uf: 'SP',
-      cep: '05804-900'
+      cep: 05804-900
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '013627-2210',
+      dd: 0800,
+      tel: 013627-2210,
       Email: '3mbrasil@mmm.com'
     },
   ],
@@ -663,22 +663,22 @@ db.fornecedor.insertOne({
 
 //Veja
 db.fornecedor.insertOne({
-  CNPJ: '50.017.332/0001-09',
+  CNPJ: 50.017.3320001-09,
   Nome: 'Veja',
   razao_social: 'Reckitt Benckiser (Brasil) Ltda.',
   endereco: [
     {
       logradouro: 'Avenida das Nações Unidas',
-      num: '14171',
+      num: 14171,
       bairro: 'Vila Gertrudes',
       uf: 'SP',
-      cep: '04794-000'
+      cep: 04794-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '08007017017',
+      dd: 0800,
+      tel: 08007017017,
       Email: 'sac@reckitt.com.br'
     },
   ],
@@ -692,22 +692,22 @@ db.fornecedor.insertOne({
 
 //Johnson & Johnson (para produtos de limpeza)
 db.fornecedor.insertOne({
-  CNPJ: '50.746.577/0001-15',
+  CNPJ: 50.746.5770001-15,
   Nome: 'Johnson & Johnson',
   razao_social: 'Johnson & Johnson Consumo do Brasil Ltda.',
   endereco: [
     {
       logradouro: 'Avenida Presidente Juscelino Kubitschek',
-      num: '2041',
+      num: 2041,
       bairro: 'Vila Olímpia',
       uf: 'SP',
-      cep: '04543-011'
+      cep: 04543-011
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '70350100',
+      dd: 0800,
+      tel: 70350100,
       Email: 'sac@jnjbrasil.com.br'
     },
   ],
@@ -720,22 +720,22 @@ db.fornecedor.insertOne({
 //Fornecedores de produtos de papelaria:
 //Kalunga
 db.fornecedor.insertOne({
-  CNPJ: '43.283.811/0001-50',
+  CNPJ: 43.283.8110001-50,
   Nome: 'Kalunga',
   razao_social: 'KLC Participações Ltda.',
   endereco: [
     {
       logradouro: 'Rua da Mooca',
-      num: '766',
+      num: 766,
       bairro: 'Mooca',
       uf: 'SP',
-      cep: '03104-000'
+      cep: 03104-000
     },
   ],
   contatos: [
     {
-      dd: '011',
-      tel: '33461600',
+      dd: 011,
+      tel: 33461600,
       Email: 'sac@kalunga.com.br'
     },
   ],
@@ -746,22 +746,22 @@ db.fornecedor.insertOne({
 
 //Tilibra
 db.fornecedor.insertOne({
-  CNPJ: '61.084.004/0001-92',
+  CNPJ: 61.084.0040001-92,
   Nome: 'Tilibra',
   razao_social: 'Bignardi Indústria Gráfica Ltda.',
   endereco: [
     {
       logradouro: 'Rua do Curtume',
-      num: '1750',
+      num: 1750,
       bairro: 'Água Branca',
       uf: 'SP',
-      cep: '05074-000'
+      cep: 05074-000
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '40037020',
+      dd: 0800,
+      tel: 40037020,
       Email: 'sac@tilibra.com.br'
     },
   ],
@@ -772,22 +772,22 @@ db.fornecedor.insertOne({
 
 //Faber-Castell
 db.fornecedor.insertOne({
-  CNPJ: '56.840.681/0001-00',
+  CNPJ: 56.840.6810001-00,
   Nome: 'Faber-Castell',
   razao_social: 'Faber-Castell do Brasil Ltda.',
   endereco: [
     {
       logradouro: 'Rua Alexandre Dumas',
-      num: '1658',
+      num: 1658,
       bairro: 'Chácara Santo Antônio',
       uf: 'SP',
-      cep: '04717-904'
+      cep: 04717-904
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '0800985800',
+      dd: 0800,
+      tel: 0800985800,
       Email: 'sac@faber-castell.com.br'
     },
   ],
@@ -800,22 +800,22 @@ db.fornecedor.insertOne({
 //Fornecedores de produtos de conveniência:
 //Mars
 db.fornecedor.insertOne({
-  CNPJ: '60.500.139/0001-26',
+  CNPJ: 60.500.1390001-26,
   Nome: 'Mars',
   razao_social: 'Mars Brasil Comercial Ltda.',
   endereco: [
     {
       logradouro: 'Rua Dr. Renato Paes de Barros',
-      num: '1017',
+      num: 1017,
       bairro: 'Itaim Bibi',
       uf: 'SP',
-      cep: '04530-001'
+      cep: 04530-001
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '08007736869',
+      dd: 0800,
+      tel: 08007736869,
       Email: 'sac@mars.com'
     },
   ],
@@ -826,22 +826,22 @@ db.fornecedor.insertOne({
 
 //Nestlé (para chocolates e snacks)
 db.fornecedor.insertOne({
-  CNPJ: '60.409.075/0001-32',
+  CNPJ: 60.409.0750001-32,
   Nome: 'Nestlé',
   razao_social: 'Nestlé Brasil Ltda.',
   endereco: [
     {
       logradouro: 'Avenida Doutor Chucri Zaidan',
-      num: '246',
+      num: 246,
       bairro: 'Vila Cordeiro',
       uf: 'SP',
-      cep: '04583-110'
+      cep: 04583-110
     },
   ],
   contatos: [
     {
-      dd: '0800',
-      tel: '7098599',
+      dd: 0800,
+      tel: 7098599,
       Email: 'sac@nestle.com.br'
     },
   ],
