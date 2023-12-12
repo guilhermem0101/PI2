@@ -15,7 +15,7 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 
                                            REQUISITOS IMPLEMENTADOS
 
-Requisito identificados - 24/10/23
+Requisito identificados - 24/10/23 /// 
 Última atualização - 02/12/23
 
 - Cadastrar produto
