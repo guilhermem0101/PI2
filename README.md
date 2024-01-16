@@ -1,4 +1,4 @@
-                                 SISTEMA DE GERENCIAMENTO DE FORNECEDOR - SGF
+                          SISTEMA DE GERENCIAMENTO DE FORNECEDOR - SGF (Procurement System)
 
 -----------------------------------------------------------------------
 Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
@@ -6,17 +6,25 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 * Proposta pedagógica: Desenvolver componentes de software utilizando recursos de Inteligência Artificial, Estrutura de Dados e BD No-SQL gerando informações em níveis estratégicos com o apoio de técnicas estatísticas.
 
 -----------------------------------------------------------------------
+<<<<<<< HEAD
                                         Cliente / Empresa:
                                 Razão social: Jotate Comercial de Alimentos Ltda
                                 CNPJ: 67.753.962/0001-92
                                 Nome fantasia: Mercado e Açougue Gaúcho
                                 Responsáveis: Danieli Alcântara | Lucas Alcântara
                                 Segmento de Negócio: Varejo de Alimentos
+=======
+                                          Cliente / Empresa:
+                                  Razão social: Jotate Comercial de Alimentos Ltda
+                                  Nome fantasia: Mercado e Açougue Gaúcho
+                                  Responsáveis: Danieli Alcântara | Lucas Alcântara
+                                  Segmento de Negócio: Varejo de Alimentos
+>>>>>>> a6353a9c79a01290ef9bde449e8bb5816ab6a084
 -----------------------------------------------------------------------
 
-                                         REQUISITOS IMPLEMENTADOS
+                                           REQUISITOS IMPLEMENTADOS
 
-Requisito identificados - 24/10/23
+Requisito identificados - 24/10/23 /// 
 Última atualização - 02/12/23
 
 - Cadastrar produto
@@ -26,8 +34,5 @@ Requisito identificados - 24/10/23
 - Extrair relatório operacional
 
 -----------------------------------------------------------------------
-                                          TIME DE DESENVOLVEDORES
-
-
-
-                                          
+                                            TIME DE DESENVOLVEDORES
+  <img align="center" src="https://drive.google.com/uc?id=1A-jBW98RvBYc5Oj6OkwcMAvp0f8glE2a" alt="Developers">                                      
