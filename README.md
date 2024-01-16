@@ -8,6 +8,7 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 -----------------------------------------------------------------------
                                         Cliente / Empresa:
                                 Razão social: Jotate Comercial de Alimentos Ltda
+                                CNPJ: 67.753.962/0001-92
                                 Nome fantasia: Mercado e Açougue Gaúcho
                                 Responsáveis: Danieli Alcântara | Lucas Alcântara
                                 Segmento de Negócio: Varejo de Alimentos
