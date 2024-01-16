@@ -6,20 +6,14 @@ Projeto Integrador II - Curso Big Data Para Negócios / FATEC Ipiranga
 * Proposta pedagógica: Desenvolver componentes de software utilizando recursos de Inteligência Artificial, Estrutura de Dados e BD No-SQL gerando informações em níveis estratégicos com o apoio de técnicas estatísticas.
 
 -----------------------------------------------------------------------
-<<<<<<< HEAD
+
                                         Cliente / Empresa:
                                 Razão social: Jotate Comercial de Alimentos Ltda
                                 CNPJ: 67.753.962/0001-92
                                 Nome fantasia: Mercado e Açougue Gaúcho
                                 Responsáveis: Danieli Alcântara | Lucas Alcântara
                                 Segmento de Negócio: Varejo de Alimentos
-=======
-                                          Cliente / Empresa:
-                                  Razão social: Jotate Comercial de Alimentos Ltda
-                                  Nome fantasia: Mercado e Açougue Gaúcho
-                                  Responsáveis: Danieli Alcântara | Lucas Alcântara
-                                  Segmento de Negócio: Varejo de Alimentos
->>>>>>> a6353a9c79a01290ef9bde449e8bb5816ab6a084
+
 -----------------------------------------------------------------------
 
                                            REQUISITOS IMPLEMENTADOS
